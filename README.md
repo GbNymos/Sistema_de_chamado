@@ -5,11 +5,11 @@ Trabalho da faculdade para ser entregue ao prof Vinicius da materia estrutura de
 Este projeto é um Sistema de Chamados de TI desenvolvido em linguagem C, com o objetivo de simular o gerenciamento de solicitações de suporte técnico em uma organização.
 
 📊 Estruturas Utilizadas
-📥 Fila (FIFO - First In, First Out)
+- 📥 Fila (FIFO - First In, First Out)
 Armazena os chamados que aguardam atendimento
 O primeiro chamado cadastrado é o primeiro a ser atendido
 Controla a ordem de chegada das solicitações
-📚 Pilha (LIFO - Last In, First Out)
+- 📚 Pilha (LIFO - Last In, First Out)
 Armazena o histórico dos chamados atendidos
 O último chamado atendido aparece primeiro no histórico
 Permite consulta dos atendimentos realizados
